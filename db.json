@@ -1,10 +1,32 @@
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106223-1", "Product Description": "RECYCLED WATER TAP KEY ONLY (EA)", "Unit of Sale": "EA", "List Price ex GST": 16.80, "List Price inc GST": 18.48, "Customer Price ex GST": 13.94, "Customer Price inc GST": 15.33, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106227-1", "Product Description": "ARCO GRIFO GARDEN TAP FEMALE  15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 10.97, "List Price inc GST": 12.07, "Customer Price ex GST": 9.11, "Customer Price inc GST": 10.02, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106228-1", "Product Description": "ARCO GRIFO GARDEN TAP MALE  15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 10.75, "List Price inc GST": 11.83, "Customer Price ex GST": 8.92, "Customer Price inc GST": 9.81, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106229-1", "Product Description": "ARCO GRIFO GARDEN TAP MALE  20MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 16.96, "List Price inc GST": 18.66, "Customer Price ex GST": 14.08, "Customer Price inc GST": 15.49, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106230-1", "Product Description": "ARCO DOUBLE GRIFO GARDEN TAP FEMALE 15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 19.25, "List Price inc GST": 21.18, "Customer Price ex GST": 15.98, "Customer Price inc GST": 17.58, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106231-1", "Product Description": "ARCO DOUBLE GRIFO GARDEN TAP MALE 15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 19.25, "List Price inc GST": 21.18, "Customer Price ex GST": 15.98, "Customer Price inc GST": 17.58, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106400-1", "Product Description": "STOP TAP F&F T-HEAD R/B         15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 14.30, "List Price inc GST": 15.73, "Customer Price ex GST": 11.87, "Customer Price inc GST": 13.06, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106405-1", "Product Description": "STOP TAP F&F T-HEAD R/B         20MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 21.60, "List Price inc GST": 23.76, "Customer Price ex GST": 17.93, "Customer Price inc GST": 19.72, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106460-1", "Product Description": "STOP TAP F&F T-HEAD C/P         15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 15.90, "List Price inc GST": 17.49, "Customer Price ex GST": 13.20, "Customer Price inc GST": 14.52, "GST Percent": 10.00 }
-{ "Product Section": "01", "Product Category": "14", "Product Code": "106500-1", "Product Description": "STOP TAP M&F T-HEAD R/B         15MM (EA)", "Unit of Sale": "EA", "List Price ex GST": 14.90, "List Price inc GST": 16.39, "Customer Price ex GST": 12.37, "Customer Price inc GST": 13.61, "GST Percent": 10.00 }
+{
+  "taps": {
+    "106223-1": {
+      "description": "RECYCLED WATER TAP KEY ONLY (EA)",
+      "listPriceExGst": 16.80,
+      "listPriceIncGst": 18.48,
+      "customerPriceExGst": 13.94,
+      "customerPriceIncGst": 15.33
+    },
+    "102701-1": {
+      "description": "FIXATAP AERATOR ADAPTOR (EA)",
+      "listPriceExGst": 5.05,
+      "listPriceIncGst": 5.56,
+      "customerPriceExGst": 4.60,
+      "customerPriceIncGst": 5.06
+    },
+    "102733-1": {
+      "description": "FIXATAP 360 DEGREE SWIVEL AERATOR (EA)",
+      "listPriceExGst": 13.45,
+      "listPriceIncGst": 14.80,
+      "customerPriceExGst": 12.24,
+      "customerPriceIncGst": 13.46
+    },
+    "107732-1": {
+      "description": "DOLPHIN URN TAP TOP ASSEMBLY COMPLETE (EA)",
+      "listPriceExGst": 53.30,
+      "listPriceIncGst": 58.63,
+      "customerPriceExGst": 48.50,
+      "customerPriceIncGst": 53.35
+    }
+  }
+}
