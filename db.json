@@ -1,32 +1,40 @@
 {
-  "taps": {
-    "106223-1": {
+  "taps": [
+    {
+      "id": 1,
+      "productCode": "106223-1",
       "description": "RECYCLED WATER TAP KEY ONLY (EA)",
       "listPriceExGst": 16.80,
       "listPriceIncGst": 18.48,
       "customerPriceExGst": 13.94,
       "customerPriceIncGst": 15.33
     },
-    "102701-1": {
+    {
+      "id": 2,
+      "productCode": "102701-1",
       "description": "FIXATAP AERATOR ADAPTOR (EA)",
       "listPriceExGst": 5.05,
       "listPriceIncGst": 5.56,
       "customerPriceExGst": 4.60,
       "customerPriceIncGst": 5.06
     },
-    "102733-1": {
+    {
+      "id": 3,
+      "productCode": "102733-1",
       "description": "FIXATAP 360 DEGREE SWIVEL AERATOR (EA)",
       "listPriceExGst": 13.45,
       "listPriceIncGst": 14.80,
       "customerPriceExGst": 12.24,
       "customerPriceIncGst": 13.46
     },
-    "107732-1": {
+    {
+      "id": 4,
+      "productCode": "107732-1",
       "description": "DOLPHIN URN TAP TOP ASSEMBLY COMPLETE (EA)",
       "listPriceExGst": 53.30,
       "listPriceIncGst": 58.63,
       "customerPriceExGst": 48.50,
       "customerPriceIncGst": 53.35
     }
-  }
+  ]
 }
